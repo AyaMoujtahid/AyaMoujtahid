@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi there! I'm a passionate software developer with a knack for turning ideas into reality through code. I love diving into complex problems and crafting elegant solutions, whether it's building dynamic web applications or exploring data insights. .<br>🚀 Always eager to learn and innovate, I enjoy collaborating with others to bring projects to life. Let's build something amazing together!<br>🌱 Currently exploring the world of Power BI to add some extra sparkle to my skillset.
 
 
